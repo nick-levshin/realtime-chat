@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.sidebar-link:hover .sidebar-icon {
+  @apply border-indigo-600 text-indigo-600;
+}
+
+.friendsRequests-link:hover .friendsRequests-icon {
+  @apply border-indigo-600 text-indigo-600;
+}
