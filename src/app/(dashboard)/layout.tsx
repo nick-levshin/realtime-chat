@@ -1,4 +1,4 @@
-import FriendRequestsSidebarOption from '@/components/UI/FriendRequestsSidebarOption';
+import FriendRequestsSidebarOption from '@/components/FriendRequestsSidebarOption';
 import { Icon, Icons } from '@/components/UI/Icons';
 import SignOutButton from '@/components/UI/SignOutButton';
 import { fetchRedis } from '@/helpers/redis';
